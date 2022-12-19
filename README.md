@@ -5,6 +5,8 @@ A multiplayer variant of chess
 Sem 5- MINI PROJECT Grade-A+ 
 This game is based the variant of chess which involves sacrificing chess pieces to win the game. It requires high stratergy play. Created in SEM 5 this game is still being developed to add single player feature. Unfortunately, the authentication method provided by google was deprecated in October 2022, hence I will be incorporating the Loopback API method soon. But you can enjoy playing the game as 2 player local player till I resolve the issue here: 
 https://likhitjha.itch.io/anti-chess-beta-version
+![image](https://user-images.githubusercontent.com/99000436/208489627-bee7f3a9-ba3f-448d-865f-b70f3c63a074.png)
+![image](https://user-images.githubusercontent.com/99000436/208489825-4097a3db-b73d-48cc-9b10-49425ca35e67.png)
 
 
 Core Game Features
