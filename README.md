@@ -11,7 +11,7 @@ Core Game Features
 1) All chess pieces have traditional moves.
 2) King has no special power. Checks and checkmate doesn't exist 
 3) Rules like promotion, time etc exists in the game 
-4) If your chess pieces can kill, then only those chess pieces are movable. Other pieces aren't.
+4) A player must eliminate a piece if they have the ability to do so, he cannot move other pieces. 
 
 
 Authentication
